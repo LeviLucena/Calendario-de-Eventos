@@ -2,6 +2,9 @@
 
 Este é um projeto de calendário de eventos desenvolvido com HTML, CSS, JavaScript (jQuery), FullCalendar e PHP, usando um banco de dados MySQL para armazenar os eventos.
 
+![image](https://github.com/LeviLucena/Calendario-de-Eventos/assets/34045910/dfa621d3-305b-416c-a77a-944979c8b1b5)
+
+
 ## Descrição
 
 O Calendário de Eventos é uma aplicação web que permite criar, visualizar e remover eventos em um calendário interativo. A aplicação foi desenvolvida com o objetivo de demonstrar a integração de tecnologias front-end e back-end para criar um calendário completo.

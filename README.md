@@ -7,7 +7,7 @@ Este é um projeto de calendário de eventos desenvolvido com HTML, CSS, JavaScr
 
 ## Descrição
 
-O Calendário de Eventos é uma aplicação web que permite criar, visualizar e remover eventos em um calendário interativo. A aplicação foi desenvolvida com o objetivo de demonstrar a integração de tecnologias front-end e back-end para criar um calendário completo.
+O Calendário de Eventos é uma aplicação web que permite criar, visualizar e remover eventos de equipes de TI como BD, Linux, Windows, Redes, em um calendário interativo. A aplicação foi desenvolvida com o objetivo de demonstrar a integração de tecnologias front-end e back-end para criar um calendário completo.
 
 Principais recursos:
 - Exibição de eventos em um calendário interativo.

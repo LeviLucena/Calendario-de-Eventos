@@ -24,13 +24,17 @@
       width: 80%;
       max-width: 800px;
       margin: 0 auto;
+      position: relative; /* Defina o posicionamento como relativo para que o absoluto funcione corretamente */
     }
 
     .event-details {
       position: absolute; /* Adiciona um posicionamento absoluto para o quadro de detalhes */
-      top: 10px;
-      left: 1200px; /* Define a posição à direita do calendário */
-      width: 300px;
+      float: right; /* Faz com que a janela flutue à direita do calendário */
+      top: 10px; /* Distância do topo */
+      right: 10px; /* Distância da direita */
+      left: 950px; /* Define a posição à direita do calendário */
+      width: 300px; /* Largura da janela de detalhes */
+      /*margin-right: 20px; /* Margem direita para separar do calendário */
       padding: 10px;
       border: 1px solid #ccc;
       background-color: #f5f5f5;
@@ -136,7 +140,7 @@
       Novo Evento
       <div class="color-selector">
         <div class="color-option" style="background-color: green;" onclick="selectColor(this)"></div>
-        <div class="color-option" style="background-color: yellow;" onclick="selectColor(this)"></div>
+        <div class="color-option" style="background-color: orange;" onclick="selectColor(this)"></div>
         <div class="color-option" style="background-color: red;" onclick="selectColor(this)"></div>
       </div>
     </h3>
